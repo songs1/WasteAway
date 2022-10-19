@@ -12,3 +12,4 @@ Application: Combine with an automatic camera system to monitor contamination of
 
 Link to saved models and dataset:
 https://www.dropbox.com/home/WasteAway%20ML
+(email ssong64@mit.edu to request access)
