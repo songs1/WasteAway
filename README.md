@@ -3,7 +3,7 @@ Detection of contamination from compostable and non-recyclable waste using Machi
 
 MADMEC 2022 Sustainability Engineering Design Contest
 2nd Place Team
-Last updated: 10/15/2022
+Last updated: 10/19/2022
 
 Goal: Classify images of waste into Recycle/Trash/Compost;
 Model: AlexNet (Convolutional Neural Network;
